@@ -17,7 +17,13 @@ nav{
 
 }
 
-#navbarNav{
+#newlogo{
+height: 30px;
+	width: 40px;
+
+}
+
+#top{
 	font-family: 'Montserrat';
 font-style: normal;
 font-weight: 700;
